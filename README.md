@@ -2,6 +2,8 @@
 
 Template version of MVC system in ExpressJs. A common starting ground for many of my API works, includes a MySQL database deployer script to setup the schema on first runs and general user login and authentication routes with appropriate models and controllers. Note, this template requires additional setup to function properly - namely sessions must be handled appropriately for the middleware to function, or the middleware must be removed from all routes to bypass them. Session handling has explicitly been avoided from this template to simplify customisation. 
 
+All modules and functions are formatted following JSDoc standard.
+
 ## Models
 
 ### User Model
