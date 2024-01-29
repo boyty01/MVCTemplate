@@ -68,6 +68,9 @@ Admin protected route asserts that the account making the request is of Administ
 SelfProtectedRoute()
 Self protected route asserts that the user making the request matches the userId parameter in the route. This is to allow users to modify their own data, but not others - unless they are an administrator.
 
+### SQL connection Pool
+A single module is included that manages the connection pool using mysql2.  All existing connection queries request a connection from this pool using pool.getConnection() and execute from it. It's standard practice across this app to use this connection pool rather than creating a new connection whenever required. You can import this module from /database/ConnectionPool.
+
 ### Log files
 A Logger module is included and can be imported to simplify server logging. log categories can be added to LogDefinitions.json to log messages into separate .txt files for convenience.  
 When declaring a log message, a verbosity level must be specified which allows for the system to filter out any messages that do not fit within the global verbosity range. The maximum verbosity can be set in the .env under LOG_VERBOSITY.  See LogDefinitions for the appropriate tags.
