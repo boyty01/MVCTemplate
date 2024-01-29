@@ -10,7 +10,7 @@ User module that represents both a User record and acts as a model for all user 
 the User class constructor has been made private (within the constriants of JavaScript) and instances of a User cannot be created outside of the User class by calling new User().  Access to instanced User objects can only be granted as a result from an appropriate
 static function. 
 
-To interact with the database, users should call the appropriate function on the class default object (using User.<staticfunction>). The following static functions are available in the template:
+To interact with the database, users should call the appropriate function on the class default object (using User.[staticfunction]). The following static functions are available in the template:
 
 createUserRecord(username, rawPassword, accountLevel) 
 
