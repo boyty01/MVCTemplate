@@ -113,5 +113,6 @@ module.exports = {
     authenticateUser,
     getAllUsers,
     deleteUsername,
-    deleteUserId
+    deleteUserId,
+    getUser
 }
