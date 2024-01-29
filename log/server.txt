@@ -1,0 +1,133 @@
+[Thu, 25 Jan 2024 11:44:32 GMT]: Server online.
+[Thu, 25 Jan 2024 11:45:10 GMT]: Server online.
+[Thu, 25 Jan 2024 11:46:24 GMT]: Server online.
+[Thu, 25 Jan 2024 11:48:21 GMT]: Server online.
+[Thu, 25 Jan 2024 11:48:33 GMT]: Server online.
+[Thu, 25 Jan 2024 16:41:44 GMT]: Server online.
+[Thu, 25 Jan 2024 16:42:05 GMT]: Server online.
+[Thu, 25 Jan 2024 16:42:20 GMT]: Server online.
+[Thu, 25 Jan 2024 16:42:35 GMT]: Server online.
+[Thu, 25 Jan 2024 16:52:03 GMT]: Server online.
+[Thu, 25 Jan 2024 17:01:28 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:01:28 GMT]: exit caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:06:11 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:06:11 GMT]: exit caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:06:46 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:06:46 GMT]: exit caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:12:17 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:12:17 GMT]: undefined caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:15:50 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:15:50 GMT]: undefined caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:17:00 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:17:00 GMT]: undefined caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:17:54 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:17:54 GMT]: undefined caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:18:12 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:18:12 GMT]: exit caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:18:40 GMT]: uncaughtException caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:18:40 GMT]: exit caused app shutdown. Server offline.
+[Thu, 25 Jan 2024 17:35:51 GMT]: server exiting.
+[Thu, 25 Jan 2024 17:37:13 GMT]: server exiting.
+[Thu, 25 Jan 2024 17:37:29 GMT]: server exiting.
+[Thu, 25 Jan 2024 17:38:07 GMT]: uncaught exception causing server shutdown: ReferenceError: cheese is not defined
+[Thu, 25 Jan 2024 17:38:07 GMT]: server exiting.
+[Thu, 25 Jan 2024 17:38:35 GMT]: uncaught exception causing server shutdown: ReferenceError: cheese is not defined
+[Thu, 25 Jan 2024 17:38:35 GMT]: Server online.
+[Thu, 25 Jan 2024 17:38:47 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:48 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:49 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:50 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:52 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:52 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:52 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:52 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:53 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:54 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:54 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:54 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:54 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:38:54 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:39:04 GMT]: Server shutdown signal front SIG; SIGINT
+[Thu, 25 Jan 2024 17:39:26 GMT]: uncaught exception causing server shutdown: ReferenceError: cheese is not defined
+[Thu, 25 Jan 2024 17:39:26 GMT]: server exiting.
+[Thu, 25 Jan 2024 17:41:18 GMT]: uncaught exception causing server shutdown: ReferenceError: cheese is not defined
+[Thu, 25 Jan 2024 17:41:18 GMT]: server shutdown.
+[Thu, 25 Jan 2024 17:41:39 GMT]: Server online.
+[Thu, 25 Jan 2024 17:43:13 GMT]: Server shutdown signal from SIG; SIGINT
+[Thu, 25 Jan 2024 17:43:13 GMT]: server shutdown.
+[Thu, 25 Jan 2024 17:43:23 GMT]: server shutdown.
+[Thu, 25 Jan 2024 17:50:47 GMT]: server shutdown.
+[Thu, 25 Jan 2024 17:51:21 GMT]: server shutdown.
+[Thu, 25 Jan 2024 17:51:30 GMT]: server shutdown.
+[Thu, 25 Jan 2024 17:52:24 GMT]: Error. Database not found. Have you run setup?
+[Thu, 25 Jan 2024 17:52:24 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:48:22 GMT]: Server online.
+[Fri, 26 Jan 2024 12:48:25 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 12:48:25 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:50:07 GMT]: Server online.
+[Fri, 26 Jan 2024 12:50:09 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 12:50:09 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:50:59 GMT]: uncaught exception causing server shutdown: ReferenceError: usernameMinimumLength is not defined
+[Fri, 26 Jan 2024 12:50:59 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:51:37 GMT]: uncaught exception causing server shutdown: ReferenceError: usernameMinimumLength is not defined
+[Fri, 26 Jan 2024 12:51:37 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:52:01 GMT]: Server online.
+[Fri, 26 Jan 2024 12:52:01 GMT]: uncaught exception causing server shutdown: TypeError: pool.execute is not a function
+[Fri, 26 Jan 2024 12:52:01 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:52:29 GMT]: Server online.
+[Fri, 26 Jan 2024 12:52:29 GMT]: uncaught exception causing server shutdown: TypeError: pool.execute is not a function
+[Fri, 26 Jan 2024 12:52:29 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:56:36 GMT]: Server online.
+[Fri, 26 Jan 2024 12:56:36 GMT]: uncaught exception causing server shutdown: TypeError: pool.getConnection is not a function
+[Fri, 26 Jan 2024 12:56:36 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:56:53 GMT]: Server online.
+[Fri, 26 Jan 2024 12:56:53 GMT]: uncaught exception causing server shutdown: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO user(username, hashedPassword, accountLevel)
+        VALUES(?,?,3);
+' at line 2
+[Fri, 26 Jan 2024 12:56:53 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:57:51 GMT]: Server online.
+[Fri, 26 Jan 2024 12:57:51 GMT]: uncaught exception causing server shutdown: TypeError: pool.execute is not a function
+[Fri, 26 Jan 2024 12:57:51 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:58:24 GMT]: Server online.
+[Fri, 26 Jan 2024 12:58:27 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 12:58:27 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:59:03 GMT]: Failed to init database pool.
+Reason: undefined
+detail: undefined
+[Fri, 26 Jan 2024 12:59:03 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:59:13 GMT]: Failed to init database pool.
+Reason: undefined
+detail: undefined
+[Fri, 26 Jan 2024 12:59:13 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:59:36 GMT]: Failed to init database pool.
+Reason: undefined
+detail: undefined
+[Fri, 26 Jan 2024 12:59:36 GMT]: server shutdown.
+[Fri, 26 Jan 2024 12:59:55 GMT]: Failed to init database pool.
+Reason: undefined
+detail: undefined
+[Fri, 26 Jan 2024 12:59:55 GMT]: server shutdown.
+[Fri, 26 Jan 2024 13:01:07 GMT]: Server online.
+[Fri, 26 Jan 2024 13:01:38 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 13:01:38 GMT]: server shutdown.
+[Fri, 26 Jan 2024 13:01:40 GMT]: Server online.
+[Fri, 26 Jan 2024 13:01:52 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 13:01:52 GMT]: server shutdown.
+[Fri, 26 Jan 2024 13:01:53 GMT]: Server online.
+[Fri, 26 Jan 2024 13:02:31 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 13:02:31 GMT]: server shutdown.
+[Fri, 26 Jan 2024 13:02:33 GMT]: Server online.
+[Fri, 26 Jan 2024 13:02:55 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 13:02:55 GMT]: server shutdown.
+[Fri, 26 Jan 2024 13:02:56 GMT]: Server online.
+[Fri, 26 Jan 2024 13:03:12 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 13:03:12 GMT]: server shutdown.
+[Fri, 26 Jan 2024 14:43:25 GMT]: Failed to init database pool.
+Reason: undefined
+detail: undefined
+[Fri, 26 Jan 2024 14:43:25 GMT]: server shutdown.
+[Fri, 26 Jan 2024 14:43:40 GMT]: Server online.
+[Fri, 26 Jan 2024 14:43:44 GMT]: Server shutdown signal from SIG; SIGINT
+[Fri, 26 Jan 2024 14:43:44 GMT]: server shutdown.
+[Mon, 29 Jan 2024 13:23:17 GMT]: uncaught exception causing server shutdown: TypeError: Error Cannot manually instantiate a User object. Use User.createUserInstance()
+[Mon, 29 Jan 2024 13:23:17 GMT]: server shutdown.

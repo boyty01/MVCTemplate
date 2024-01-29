@@ -1,0 +1,14 @@
+{
+    "logTypes" : {
+    "server" : "./log/server.txt",
+    "database" : "./log/database.txt",
+    "authentication" : "./log/authentication.txt"
+    },
+
+    "logVerbosity" : {
+        "low" : 0,
+        "medium":1,
+        "high" : 2,
+        "veryHigh" : 3
+    }
+}
