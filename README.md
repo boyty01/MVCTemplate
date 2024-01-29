@@ -64,4 +64,4 @@ Self protected route asserts that the user making the request matches the userId
 
 
 ## Views
-No view handling has been included in this system template to allow for completely custom implementation from whatever render method is prefered.  For web app frameworks such as ReactJS, you can just serve the front end directly from express following the api routes with express.use("*", express.static(<publicpath>).  For conventional web pages, you can add custom routes and return the appropriate views in whatever suits your workflow. 
+No view handling has been included in this system template to allow for completely custom implementation from whatever render method is prefered.  For web app frameworks such as ReactJS, you can just serve the front end directly from express following the api routes with express.use("*", express.static(<publicpath>)).  For conventional web pages, you can add custom routes and return the appropriate views in whatever suits your workflow. 
